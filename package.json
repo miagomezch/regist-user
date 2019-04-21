@@ -2,7 +2,7 @@
   "name": "regist-user",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://miagomezch.github.io/Sign/",
+  "homepage": "https://miagomezch.github.io/regist-user/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
